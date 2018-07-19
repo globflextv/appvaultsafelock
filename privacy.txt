@@ -1,0 +1,31 @@
+Privacy policy
+===========
+General
+-----------
+App Vault-Safe Lock is developed by one main developer, with a few people helping from time to time, mostly with translations.
+
+Privacy Policy ("Policy") describes how information obtained from users is collected, used and disclosed.
+
+By using App Vault-Safe Lock, you agree that your personal information will be handled as described in this Policy.
+
+Information being collected
+
+App Vault-Safe Lock does not collect any personal identifiable information.
+
+
+The 'SYSTEM_ALERT_WINDOW' permission is used for asking user the pattern for locked applications.
+The 'RECEIVE_BOOT_COMPLETED' permission is used for starting App lock services on start.
+The 'PACKAGE_USAGE_STATS' permission will check that ho many time this app is used.
+The 'GET_TASKS' permission is used for checking that a locked app running or not (to prompt for password).
+The 'RESTART_PACKAGES' permission is used for checking whether a locked app restarted (to prompt for password again).
+
+
+Changes to the Policy
+
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+
+Last modified: 17 May, 2018.
+
+Contact
+
+If you have any questions about the Policy, please contact me via virtualsofttechnologies@gmail.com.
